@@ -1,10 +1,11 @@
 # Inventory Management System
 
 ## Internship Details
-- Name: Dibyajyoti Palei
-- Intern ID: CITS3229
-- Domain: Full Stack Web Development
+- Name: Nikhil Kumar Puhan
+- Intern ID: CITS3639
+- Domain: Python Programming
 - Organization: CODTECH IT Solutions
+- Duration: 4 Weeks
 
 ## Project Overview
 The Inventory Management System helps users manage product inventory records. Users can add, view and delete products from inventory.
